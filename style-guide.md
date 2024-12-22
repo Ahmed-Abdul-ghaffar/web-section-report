@@ -8,4 +8,3 @@
 
 - **Base Size:** 16px
 - **Line Height:** 1.5
-  s
